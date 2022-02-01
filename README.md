@@ -1,10 +1,10 @@
-# Creating a OpenSea Clone using Next.js, TailwindCSS and Sanity.io
+# An OpenSea Clone using Next.js, Tailwindcss and Sanity.io
 
-This app is made entirely from the tutorial [video](https://www.youtube.com/watch?v=x3eRXeMB-4k) of Clever Programmer, special thanks for what you are doing for the community :) 
+This app is made entirely from the tutorial [video](https://www.youtube.com/watch?v=x3eRXeMB-4k) of [Clever Programmer](https://github.com/CleverProgrammers), special thanks for what he's doing for the community :) 
 
 * Created the app using [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap:  
 ```bash
-    yarn create next-app -e with-tailwindcss opensea-clone
+yarn create next-app -e with-tailwindcss opensea-clone
 ``` 
 -e means example in the above line.
 
