@@ -2,7 +2,12 @@
 
 This app is made entirely from the tutorial [video](https://www.youtube.com/watch?v=x3eRXeMB-4k) of Clever Programmer, special thanks for what you are doing for the community :) 
 
-* Created the app using 'yarn create next-app -e with-tailwindcss opensea-clone'
+* Created the app using [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap:  
+```bash
+    yarn create next-app -e with-tailwindcss opensea-clone
+``` 
+-e means example in the above line.
+
 ## Preview
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
