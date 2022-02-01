@@ -1,7 +1,8 @@
-# Next.js + Tailwind CSS Example
+# Creating a OpenSea Clone using Next.js, TailwindCSS and Sanity.io
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This app is made entirely from the tutorial [video](https://www.youtube.com/watch?v=x3eRXeMB-4k) of Clever Programmer, special thanks for what you are doing for the community :) 
 
+* Created the app using 'yarn create next-app -e with-tailwindcss opensea-clone'
 ## Preview
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
